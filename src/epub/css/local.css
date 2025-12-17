@@ -42,3 +42,7 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+[epub|type~="z3998:clarification"]{
+	text-align: center;
+}
